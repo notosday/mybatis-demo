@@ -1,0 +1,1 @@
+INSERT INTO city2(province_id, city_name, description) VALUES (6666,'宁波','明州');
